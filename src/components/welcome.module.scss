@@ -9,7 +9,13 @@
   h1 {
     margin: 0;
   }
-  .logo {
-    width: 150px;
+  .logos {
+    display: flex;
+    .react {
+      width: 150px;
+    }
+    .firebase {
+      width: 200px;
+    }
   }
 }
