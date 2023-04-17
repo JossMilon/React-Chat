@@ -6,7 +6,7 @@
 .pnp.js
 
 # Friebase access
-/firebase-creds.js
+firebase-creds.js
 
 # testing
 /coverage

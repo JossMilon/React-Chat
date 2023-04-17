@@ -5,7 +5,7 @@ import styles from "./welcome.module.scss";
 const Welcome = () => {
   return (
     <div className={styles.welcome}>
-      <h1>Welcome to React Chat.</h1>
+      <h1>Welcome to React Chat with Frirebase.</h1>
       <img className={styles.logo} src={reactImg} alt="React logo" />
       <p>Sign in with Google to chat with with your fellow React Developers.</p>
       <GoogleSignIn />
